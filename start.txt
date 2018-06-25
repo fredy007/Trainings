@@ -1,1 +1,1 @@
-Test git - Version 2
+Test git
